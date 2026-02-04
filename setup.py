@@ -22,7 +22,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     long_description=read_me,
     license="MIT",
-    url="https://github.com/joeyagreco/hn-api",
+    url="https://github.com/joeyagreco/hacker-news",
     include_package_data=True,
     packages=setuptools.find_packages(exclude=("test_e2e")),
     install_requires=required_packages,
